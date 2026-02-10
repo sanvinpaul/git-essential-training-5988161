@@ -1,1 +1,2 @@
 This is the contents of the file
+I am making a new change to this file
